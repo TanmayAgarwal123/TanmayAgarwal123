@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanmayAgarwal123
-- 👀 I’m interested in ...
+- 👀 I’m interested in Learning new things, coding, badminton, lawn-tennis, cooking, swimming, quizzes, etc.
 - 🌱 I’m currently learning computer-science in VIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanmay.agarwal2021@vitstudent.ac.in
