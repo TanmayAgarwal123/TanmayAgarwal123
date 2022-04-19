@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ISTE Tech Week</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossorigin="anonymous" />
+  <link rel="stylesheet" href="./weather.css" />
+</head>
+
+<body>
+  <!-- alan ai -->
+  <div class="alan-btn" style="cursor: pointer"></div>
+
+
+  <!-- Main Code -->
+  <div class="container-fluid d-flex flex-wrap p-0" style="min-height: 100vh">
+    <div class="col-lg-3">
+      <div>
+        <form class="search-loaction d-flex justify-content-center">
+          <input type="text" name="city" placeholder="Name of the city..." style="outline: none;" autocomplete="off"
+            class="
+                text-muted
+                col-8
+                border border-top-0 border-right-0 border-left-0
+                mt-4
+                p-2
+              " />
+        </form>
+        <div class="left-card">
+          <div class="card-top text-center my-5">
+            <div class="my-3 city-name">
+              <p style="font-size: 2rem;">Gurgaon</p>
+            </div>
+            <img src="./assets/sunny.svg" alt="" style="max-width: 180px" class="card-img-top" />
+          </div>
+
+          <!-- Left Card Body starts from here -->
+          <div class="card-body">
+            <div class="card-mid d-flex">
+              <div class="col-7 text-center temp">
+                <span style="font-size: 3em; letter-spacing: -2px;">30&deg;C</span>
+              </div>
+              <div class="col-5 mt-3 condition-temp">
+                <p class="condition">Thunder Storm</p>
+                <p class="high">30&deg;C</p>
+                <p class="low">27&deg;C</p>
+              </div>
+            </div>
+            <div class="icon-container card shadow mx-auto my-3">
+              <img src="./assets/cloud.svg" class="mx-auto my-auto" alt="" />
+            </div>
+            <div class="px-3 py-2 d-flex justify-content-center gap-2">
+              <div class="text-center">
+                <span>Feels Like</span>
+
+                <span class="pr-2">30&deg;C</span>
+              </div>
+              <div class="text-center ml-4">
+                <span>Humidity</span>
+
+                <span>55%</span>
+              </div>
+            </div>
+          </div>
+          <!--Left Card body ends here -->
+        </div>
+
+      </div>
+    </div>
+    <div class="col-lg-9 container px-4" style="background: #f6f6f8">
+
+      <h2 class="my-4">3-Hourly Forecast</h2>
+      <div class="d-flex flex-wrap hourly">
+        <!-- 3-hourly Card starts from here -->
+        <div style="border-radius: 15%" class="
+                d-flex
+                col-12 col-md-4 col-xl-2 col-lg-3
+                flex-column
+                align-items-center
+                bg-white
+                p-3
+                m-2
+                font-weight-bold
+              ">
+          <p>Sun</p>
+          <img src="./assets/sunny.svg" class="py-4" alt="" style="max-width: 100px" />
+          <div>
+            <span>20&deg;C</span>
+            <span>10&deg;C</span>
+          </div>
+          <span>8pm</span>
+        </div>
+        <div style="border-radius: 15%" class="
+              d-flex
+              col-12 col-md-4 col-xl-2 col-lg-3
+              flex-column
+              align-items-center
+              bg-white
+              p-3
+              m-2
+              font-weight-bold
+            ">
+          <p>Sun</p>
+          <img src="./assets/sunny.svg" class="py-4" alt="" style="max-width: 100px" />
+          <div>
+            <span>20&deg;C</span>
+            <span>10&deg;C</span>
+          </div>
+          <span>8pm</span>
+        </div>
+        <div style="border-radius: 15%" class="
+            d-flex
+            col-12 col-md-4 col-xl-2 col-lg-3
+            flex-column
+            align-items-center
+            bg-white
+            p-3
+            m-2
+            font-weight-bold
+          ">
+          <p>Sun</p>
+          <img src="./assets/sunny.svg" class="py-4" alt="" style="max-width: 100px" />
+          <div>
+            <span>20&deg;C</span>
+            <span>10&deg;C</span>
+          </div>
+          <span>8pm</span>
+        </div>
+        <div style="border-radius: 15%" class="
+          d-flex
+          col-12 col-md-4 col-xl-2 col-lg-3
+          flex-column
+          align-items-center
+          bg-white
+          p-3
+          m-2
+          font-weight-bold
+        ">
+          <p>Sun</p>
+          <img src="./assets/sunny.svg" class="py-4" alt="" style="max-width: 100px" />
+          <div>
+            <span>20&deg;C</span>
+            <span>10&deg;C</span>
+          </div>
+          <span>8pm</span>
+        </div>
+        <div style="border-radius: 15%" class="
+        d-flex
+        col-12 col-md-4 col-xl-2 col-lg-3
+        flex-column
+        align-items-center
+        bg-white
+        p-3
+        m-2
+        font-weight-bold
+      ">
+          <p>Sun</p>
+          <img src="./assets/sunny.svg" class="py-4" alt="" style="max-width: 100px" />
+          <div>
+            <span>20&deg;C</span>
+            <span>10&deg;C</span>
+          </div>
+          <span>8pm</span>
+        </div>
+        <div style="border-radius: 15%" class="
+      d-flex
+      col-12 col-md-4 col-xl-2 col-lg-3
+      flex-column
+      align-items-center
+      bg-white
+      p-3
+      m-2
+      font-weight-bold
+    ">
+          <p>Sun</p>
+          <img src="./assets/sunny.svg" class="py-4" alt="" style="max-width: 100px" />
+          <div>
+            <span>20&deg;C</span>
+            <span>10&deg;C</span>
+          </div>
+          <span>8pm</span>
+        </div>
+        <div style="border-radius: 15%" class="
+    d-flex
+    col-12 col-md-4 col-xl-2 col-lg-3
+    flex-column
+    align-items-center
+    bg-white
+    p-3
+    m-2
+    font-weight-bold
+  ">
+          <p>Sun</p>
+          <img src="./assets/sunny.svg" class="py-4" alt="" style="max-width: 100px" />
+          <div>
+            <span>20&deg;C</span>
+            <span>10&deg;C</span>
+          </div>
+          <span>8pm</span>
+          <!-- 3-hourly Card ends here -->
+        </div>
+
+      </div>
+
+      <div class="mt-4 ">
+        <h2>Today's Highlights</h2>
+        <div class="d-flex flex-wrap highlights">
+
+          <!-- HIghlights Card starts from here -->
+          <div style="border-radius: 15%" class="
+                d-flex
+                col-12 col-md-4 col-xl-2 col-lg-3
+                flex-column
+                align-items-center
+                bg-white
+                p-3
+                m-2
+                font-weight-bold
+              ">
+            <p class="py-2">Visibility</p>
+            <h2 class="py-2">10 km</h2>
+            <img src="./assets/binoculars.png" style="height: 120px;" alt="" srcset="" />
+
+          </div>
+          <div style="border-radius: 15%" class="
+                d-flex
+                col-12 col-md-4 col-xl-2 col-lg-3
+                flex-column
+                align-items-center
+                bg-white
+                p-3
+                m-2
+                font-weight-bold
+              ">
+            <p class="py-2">Pressure</p>
+            <h2 class="py-2">1012 hPa</h2>
+            <img src="./assets/pressure-gauge.png" style="height: 120px;" alt="" srcset="" />
+
+          </div>
+          <div style="border-radius: 15%" class="
+                d-flex
+                col-12 col-md-4 col-xl-2 col-lg-3
+                flex-column
+                align-items-center
+                bg-white
+                p-3
+                m-2
+                font-weight-bold
+              ">
+            <p class="py-2">Wind Speed</p>
+            <h2 class="py-2">4.79 km/h</h2>
+            <img src="./assets/windock.png" style="height: 120px;" alt="" srcset="" />
+
+          </div>
+          <!-- Highlights Card ends here -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="./request.js"></script>
+  <script src="./weather.js"></script>
+  <script type="text/javascript" src="https://studio.alan.app/web/lib/alan_lib.min.js"></script>
+  <script>
+    var alanBtnInstance = alanBtn({
+      key: "bec9b61a777d1cda39187084433f480d2e956eca572e1d8b807a3e2338fdd0dc/stage",
+      onCommand: function (commandData) {
+        if (commandData.command === "go:back") {
+          console.log(commandData);
+        }
+      },
+      rootEl: document.getElementById("alan-btn"),
+    });
+
+  </script>
+</body>
+
+</html>
