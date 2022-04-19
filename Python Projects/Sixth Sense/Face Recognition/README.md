@@ -35,8 +35,3 @@ User.face_id.count.jpg
 
 5) Run the Python script by pressing F5.
 
-
-<p align="center">
-<img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/face_recognintion.png">
-</p>
-
