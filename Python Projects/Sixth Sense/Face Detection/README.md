@@ -17,9 +17,3 @@ To run the code press ctrl+F5.
 
 Note :- all the haarcascade file should be in the same folder in which the code is saved.
 In case of Auto_web_using_face program all the steps remain same asface detection program only we have import webbrower and define we need to define the browser which you want open after the detection of faces.
-
-<p align="center">
-<img src="https://github.com/ISTE-VIT/Sixth-Sense/blob/main/resources/face_detection.png">
-</p>
-
-  
