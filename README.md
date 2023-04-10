@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayagarwal123" alt="tanmayagarwal123" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
 - 🌱 I’m currently learning **Python Automation**
 
 - 👀 I’m interested in Learning new things, coding, badminton, lawn-tennis, cooking, swimming etc.
@@ -13,8 +14,6 @@
 
 - 📫 How to reach me **tanmay10agarwal@gmail.com**
 - 📫 You can even contact me on 6377139563
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
