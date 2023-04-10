@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanmay Agarwal</h1>
 <h3 align="center">As a passionate student hailing from India, I am driven to continuously learn and make meaningful contributions to society. With an insatiable appetite for knowledge, I am committed to pushing my boundaries and embracing new challenges.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayagarwal123" alt="tanmayagarwal123" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
 - 🌱 I’m currently learning **Python Automation**
 
 - 👀 I’m interested in Learning new things, coding, badminton, lawn-tennis, cooking, swimming etc.
