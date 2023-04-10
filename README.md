@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Agarwal</h1>
 <h3 align="center">As a passionate student hailing from India, I am driven to continuously learn and make meaningful contributions to society. With an insatiable appetite for knowledge, I am committed to pushing my boundaries and embracing new challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayagarwal123" alt="tanmayagarwal123" /></a> </p>
-
 - 🌱 I’m currently learning **Python Automation**
 
 - 👀 I’m interested in Learning new things, coding, badminton, lawn-tennis, cooking, swimming etc.
@@ -15,6 +11,10 @@
 
 - 📫 How to reach me **tanmay10agarwal@gmail.com**
 - 📫 You can even contact me on 6377139563
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmayagarwal123" alt="tanmayagarwal123" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tanmayagarwal123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanmayagarwal123/" height="30" width="40" /></a>
