@@ -16,7 +16,7 @@
 - 💬 Ask me about **Automation, Web dev, AI/ML and yes PYTHON**
 
 - 📫 How to reach me **tanmay10agarwal@gmail.com**
-- 📫 You can contact me on 6377139563
+- 📫 You can contact me on +91-6377139563
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
