@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web-Dev & Python Automation**
 
-- 👀 I’m interested in Learning new things, coding, badminton, lawn-tennis, cooking, swimming etc.
+- 👀 I’m interested in Learning new things, coding, badminton, table-tennis, tennis, cooking, swimming etc.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanmayAgarwal123/All-Projects](https://github.com/TanmayAgarwal123/All-Projects)
 
