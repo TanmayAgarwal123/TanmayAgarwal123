@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanmay Agarwal</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=60&pause=1000&color=F70000&background=F5F5F51F&center=true&vCenter=true&width=700&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanmay+Agarwal....)](https://git.io/typing-svg)
 <h3 align="center">As a passionate student hailing from India, I am driven to continuously learn and make meaningful contributions to society. With an insatiable appetite for knowledge, I am committed to pushing my boundaries and embracing new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
@@ -7,13 +7,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Python Automation**
+- 🌱 I’m currently learning **Full Stack Web-Dev & Python Automation**
 
 - 👀 I’m interested in Learning new things, coding, badminton, lawn-tennis, cooking, swimming etc.
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanmayAgarwal123/All-Projects](https://github.com/TanmayAgarwal123/All-Projects)
 
-- 💬 Ask me about **Automation, Web dev, AI/ML and yes PYTHON**
+- 💬 Ask me about **Automation, Web dev, AI/ML and yes PYTHON too**
 
 - 📫 How to reach me **tanmay10agarwal@gmail.com**
 - 📫 You can contact me on +91-6377139563
