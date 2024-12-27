@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web-Dev**
 
-- My portfolio link is **https://iamtanmay.netlify.app/**
+- My portfolio link is **https://tanmayresume.com/**
 
 - 👀 I’m interested in Learning new things, coding, badminton, table-tennis, tennis, cooking, swimming etc.
 
