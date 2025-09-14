@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=60&pause=1000&color=F70000&background=F5F5F51F&center=true&vCenter=true&width=700&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanmay+Agarwal....)](https://git.io/typing-svg)
-<h3 align="center">As a passionate student hailing from India, I am driven to continuously learn and make meaningful contributions to society. With an insatiable appetite for knowledge, I am committed to pushing my boundaries and embracing new challenges.</h3>
+<h3 align="center">As a passionate student, I am driven to continuously learn and make meaningful contributions to society. With an insatiable appetite for knowledge, I am committed to pushing my boundaries and embracing new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayagarwal123&label=Profile%20views&color=0e75b6&style=flat" alt="tanmayagarwal123" /> </p>
 
